@@ -199,6 +199,7 @@ final class LightController: ObservableObject {
         panel.backgroundColor = .clear
         panel.hasShadow = false
         panel.ignoresMouseEvents = true
+        panel.sharingType = .none
         panel.collectionBehavior = [.canJoinAllSpaces, .fullScreenAuxiliary, .stationary]
         
         let host = NSHostingView(rootView: makeStripLightView(hoverCutoutPoint: nil))
