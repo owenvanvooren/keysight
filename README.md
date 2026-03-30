@@ -5,6 +5,8 @@ keysight is a super simple utility for macOS (specifically the backlightless Mac
 
 to build, simply download the project, unzip the file, and open in Xcode, then enter your free/paid developer credentials and build!
 
-contact me at hi@owen.uno if you need help!
+**update: i create a prebuilt version if you don't want to install/use Xcode. simply navigate to [github.com/owenvanvooren/keysight/releases/tag/v1.0](https://github.com/owenvanvooren/keysight/releases/tag/v1.0) to download the `.dmg` file and follow the instructions in the release info.**
+
+please don't hesitate to contact me at hi@owen.uno if you need help!
 
 -owen van vooren
